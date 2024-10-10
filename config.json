@@ -8,10 +8,12 @@
     "PosterMinHeight": "3000",
     "PosterMinWidth": "2000",
     "PreferredLanguageOrder": [
-      "xx"
+      "xx",
+      "en"
     ],
     "PreferredSeasonLanguageOrder": [
-      "xx"
+      "xx",
+      "en"
     ],
     "WidthHeightFilter": "false",
     "tmdb_vote_sorting": "vote_average",
