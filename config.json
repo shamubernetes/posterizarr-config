@@ -25,7 +25,6 @@
   "PlexPart": {
     "LibstoExclude": [
       "Sleep",
-      "TV Shows",
       "Anime"
     ],
     "PlexUrl": "http://plex.media.svc.cluster.local:32400",
